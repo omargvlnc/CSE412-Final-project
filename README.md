@@ -5,4 +5,4 @@ Animal Crossing ecommerce website for cse412 final project
 
 The final project for this class is to create a database using Postgres and real-world implmentation.
 
-For our final project we decided to look at the popular 2019 video game "Animal Crossing" and create a database of the game's large variety of furniture items. 
+For our final project we decided to look at the popular 2019 video game "Animal Crossing: New Horizons" and create a database of the game's large variety of furniture items. 
