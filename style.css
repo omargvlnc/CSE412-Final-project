@@ -17,3 +17,11 @@
 .moses-horizontal-list {
     display: inline;
 }
+
+.moses-vertical-list {
+    display: block;
+}
+
+.moses-column-gap40{
+    column-gap:40px
+}
