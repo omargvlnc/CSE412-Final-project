@@ -21,3 +21,7 @@
 .moses-vertical-list {
     display: block;
 }
+
+.moses-column-gap40{
+    column-gap:40px
+}
